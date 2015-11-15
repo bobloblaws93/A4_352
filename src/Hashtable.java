@@ -27,20 +27,20 @@ public class Hashtable {
 		}
 		
 		
-		public int gethashcode(String a)
-		{
-			
-			
-			return a.hashCode();
-			
-		}
+		
 		
 		
 		
 	}
 	
 	
-	
+	public int gethashcode(String a)
+	{
+		
+		
+		return a.hashCode();
+		
+	}
 	
 	public void setEmptyMarkerScheme(char a)
 	{
